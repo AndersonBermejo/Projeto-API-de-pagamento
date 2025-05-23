@@ -73,7 +73,7 @@ A resposta indica `message: "Pagamento recebido com sucesso!"` e o status `pendi
 
 ![Realizando o terceiro teste de pagamento](https://github.com/user-attachments/assets/04bdd0c5-9c13-4dfe-aacf-fcc8c657d850)
 
-### Verificando o status do segundo pagamento
+### Verificando o status do terceiro pagamento
 
 ![Verificando o status de pagamento do terceiro teste](https://github.com/user-attachments/assets/14551ec7-6f01-410d-af5b-138218ef1de2)
 

@@ -47,7 +47,7 @@ A resposta indica `message: "Pagamento recebido com sucesso!"` e o status `pendi
 
 ### Verificando o Status do Primeiro Teste de Pagamento
 
-É possível verificar o status do pagamento enviando a mesma requisição `POST`. A API retorna os detalhes do pagamento, incluindo o ID e o status atual.
+É possível verificar o status do pagamento enviando a requisição `GET`. A API retorna os detalhes do pagamento, incluindo o ID e o status atual.
 
 ![Verificando o status de pagamento do primeiro teste](https://github.com/user-attachments/assets/bdb47bbd-9937-433f-a8ab-78fdfd72a9b1)
 

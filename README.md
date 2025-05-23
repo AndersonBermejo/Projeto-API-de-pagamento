@@ -4,7 +4,7 @@ Este repositório documenta o processo de integração e teste de uma API de pag
 
 ## Visão Geral da API
 
-A API de pagamentos está hospedada no Azure e é acessível através do endpoint `https://gerenciamentoapi.azure-api.net/pagamento/v1/`.
+A API de pagamentos está hospedada no Azure e é acessível com a chave e token válidos utilizando o endpoint `https://gerenciamentoapi.azure-api.net/pagamento/v1/`.
 
 ## Testes de Conectividade e Saúde da API
 
